@@ -1,6 +1,6 @@
 # How to show a complex property value in a column's DataItemTemplate
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e171)**
+**[[Run Online]](https://codecentral.devexpress.com/e171/)**
 <!-- run online end -->
 
 
