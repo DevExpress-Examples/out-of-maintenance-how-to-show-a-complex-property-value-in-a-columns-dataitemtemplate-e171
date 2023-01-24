@@ -1,9 +1,9 @@
 <%@ Page Language="C#" AutoEventWireup="true"  CodeFile="Default.aspx.cs" Inherits="Complex_Property_In_Template" %>
 
 <%-- BeginRegion Page setup --%>
-<%@ Register Assembly="DevExpress.Web.v15.1"
+<%@ Register Assembly="DevExpress.Web.v13.1"
     Namespace="DevExpress.Web" TagPrefix="dxe" %>
-<%@ Register Assembly="DevExpress.Web.v15.1"
+<%@ Register Assembly="DevExpress.Web.v13.1"
     Namespace="DevExpress.Web" TagPrefix="dxwgv" %>
 
 
